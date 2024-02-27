@@ -7,3 +7,5 @@ run:
 
 s_run:
 	streamlit run app.py
+
+all: install run s_run
